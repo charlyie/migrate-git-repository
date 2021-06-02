@@ -2,6 +2,6 @@
 *Bash script to migrate a repository GIT to another. Will preserves branches & tags.*
 
 ## Example of use :
-`$ git-migrate-repository.sh`
+`$ migrate-git-repository.sh`
 
 ![Migrate Git Repo](https://i.ibb.co/F5FJHmv/MQr52te-IS1-ZE.jpg)
